@@ -1,0 +1,1 @@
+You can rebuild the database by entering psql -U postgres < worldcup.sql
